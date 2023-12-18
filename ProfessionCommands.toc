@@ -1,0 +1,7 @@
+## Interface: 11500
+## Title: Profession Commands
+## Note: Console slash commands that open profession window
+## Author: Sliptrixx
+## DefaultState: enabled
+
+ProfessionCommands.lua
